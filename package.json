@@ -1,7 +1,7 @@
 {
   "name": "telegram-escape",
   "version": "1.0.5",
-  "description": "Lightwieght Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input",
+  "description": "Lightweight Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input with formatting options",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
