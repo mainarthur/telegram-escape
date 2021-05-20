@@ -17,7 +17,7 @@ const firstName = "<My Cool Name>";
 
 await bot.sendMessage(chatId, HTML`<b>${firstName}</b>`, {
   parse_mode: "HTML",
-}); // bold ""
+}); // bold "<My Cool Name>"
 
 await bot.sendMessage(chatId, HTML`<b>${`2 < 3`}</b>`, {
   parse_mode: "HTML",
