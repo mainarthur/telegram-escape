@@ -1,6 +1,6 @@
 {
   "name": "telegram-escape",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lightwieght Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input",
   "main": "index.js",
   "scripts": {
