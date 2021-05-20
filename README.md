@@ -1,6 +1,6 @@
 # telegram-escape
 
-Lightwieght Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input
+Lightwieght Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input with [formatting options](https://core.telegram.org/bots/api#formatting-options)
 
 Installation
 
@@ -19,7 +19,7 @@ await bot.sendMessage(chatId, HTML`<b>${firstName}</b>`, {
   parse_mode: "HTML",
 }); // bold "<My Cool Name>"
 
-await bot.sendMessage(chatId, HTML`<b>${`2 < 3`}</b>`, {
+await bot.sendMessage(chatId, HTML`<b>${"2 < 3"}</b>`, {
   parse_mode: "HTML",
 }); // bold "2 < 3"
 ```
