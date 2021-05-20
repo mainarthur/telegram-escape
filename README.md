@@ -1,5 +1,7 @@
 # telegram-escape
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/713607391a6f455ab8c1d0cc3a231167)](https://app.codacy.com/gh/mainarthur/telegram-escape?utm_source=github.com&utm_medium=referral&utm_content=mainarthur/telegram-escape&utm_campaign=Badge_Grade_Settings)
+
 Lightweight Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input with [formatting options](https://core.telegram.org/bots/api#formatting-options)
 
 Installation
