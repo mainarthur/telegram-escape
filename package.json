@@ -1,0 +1,22 @@
+{
+  "name": "telegram-escape",
+  "version": "1.0.2",
+  "description": "Lightwieght Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainarthur/telegram-escape.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "masterarthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainarthur/telegram-escape/issues"
+  },
+  "homepage": "https://github.com/mainarthur/telegram-escape#readme"
+}
