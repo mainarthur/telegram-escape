@@ -17,7 +17,11 @@ const firstName = "<My Cool Name>";
 
 await bot.sendMessage(chatId, HTML`<b>${firstName}</b>`, {
   parse_mode: "HTML",
-});
+}); // bold ""
+
+await bot.sendMessage(chatId, HTML`<b>${`2 < 3`}</b>`, {
+  parse_mode: "HTML",
+}); // bold "2 < 3"
 ```
 
 ```js
@@ -27,5 +31,5 @@ const firstName = "*My Cool Name*";
 
 await bot.sendMessage(chatId, md`_${firstName}_`, {
   parse_mode: "MarkdownV2",
-});
+}); // italic "*My Cool Name*"
 ```
