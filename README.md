@@ -1,6 +1,6 @@
 # telegram-escape
 
-Lightwieght Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input with [formatting options](https://core.telegram.org/bots/api#formatting-options)
+Lightweight Javascript utility zero-dependecy library for Telegram Bots developers for escaping user input with [formatting options](https://core.telegram.org/bots/api#formatting-options)
 
 Installation
 
