@@ -55,17 +55,17 @@ await bot.sendMessage(chatId, md`_${firstName}_`, {
 
 <a name="HTML"></a>
 
-## HTML : [<code>TagEscapeFunction</code>](#TagEscapeFunction)
+## HTML\`template\_${string}\`⇒ <code>String</code>
 
 **Kind**: global function  
 <a name="md"></a>
 
-## md : [<code>TagEscapeFunction</code>](#TagEscapeFunction)
+## md\`template\_${string}\`⇒ <code>String</code>
 
 **Kind**: global function  
 <a name="mdv1"></a>
 
-## mdv1 : [<code>TagEscapeFunction</code>](#TagEscapeFunction)
+## mdv1\`template\_${string}\`⇒ <code>String</code>
 
 **Kind**: global function  
 <a name="escapeHTML"></a>
