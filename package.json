@@ -13,6 +13,9 @@
   "keywords": [
     "util"
   ],
+  "engines": {
+    "node": ">=14"
+  },
   "author": "masterarthur",
   "license": "ISC",
   "bugs": {
